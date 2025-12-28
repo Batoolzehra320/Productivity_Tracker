@@ -28,10 +28,10 @@ This is a **C-based productivity tracker** that allows users to manage tasks dir
 1. Compile the code:
 
 ```bash
-gcc task_manager.c -o task_manager 
-
+gcc task_manager.c -o task_manager  
+```
 2. Run the program:
-
+```bash
 ./task_manager
-
+```
 3. Follow on-screen instructions to manage tasks.
