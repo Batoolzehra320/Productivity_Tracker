@@ -1,0 +1,7 @@
+1,dld lab submission,23-nov-2025,0
+2,CEW lab,27-11-2025,1
+3,DSA assignment,26-11-2025,1
+4,online from submission,22-11-2025,0
+5,ctv tes,30-11-2025,0
+6,project submission,31-11-2025,0
+7,report,01-12-2025,0
